@@ -1,0 +1,12 @@
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\bin\Debug\netcoreapp3.1\Carguero.Domain.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\obj\Debug\netcoreapp3.1\Carguero.DataBase.csprojAssemblyReference.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\obj\Debug\netcoreapp3.1\Carguero.DataBase.AssemblyInfoInputs.cache
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\obj\Debug\netcoreapp3.1\Carguero.DataBase.AssemblyInfo.cs
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\bin\Debug\netcoreapp3.1\Carguero.DataBase.deps.json
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\bin\Debug\netcoreapp3.1\Carguero.DataBase.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\bin\Debug\netcoreapp3.1\Carguero.DataBase.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\bin\Debug\netcoreapp3.1\Carguero.Domain.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\obj\Debug\netcoreapp3.1\Carguero.DataBase.csproj.CopyComplete
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\obj\Debug\netcoreapp3.1\Carguero.DataBase.dll
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\obj\Debug\netcoreapp3.1\Carguero.DataBase.pdb
+C:\Users\bruno.dejesus\Desktop\Pessoal\Carguero\WebApi\Carguero.DataBase\obj\Debug\netcoreapp3.1\Carguero.DataBase.csproj.CoreCompileInputs.cache
